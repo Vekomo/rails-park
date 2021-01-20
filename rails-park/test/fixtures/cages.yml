@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  maxCapacity: 1
+  currCapacity: 1
+  powerOn: false
+
+two:
+  maxCapacity: 1
+  currCapacity: 1
+  powerOn: false
